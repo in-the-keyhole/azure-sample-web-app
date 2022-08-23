@@ -17,12 +17,12 @@
   },
   // Add the IDs of extensions you want installed when the container is created.
   "extensions": [
-    "dbaeumer.vscode-eslint",
-    "eamodio.gitlens",
-    // "apollographql.vscode-apollo",
-    "esbenp.prettier-vscode",
-    // "redhat.vscode-yaml"
-  ],
+	"dbaeumer.vscode-eslint",
+	"eamodio.gitlens",
+	"esbenp.prettier-vscode",
+	"ms-azuretools.vscode-azurestaticwebapps",
+	"ms-azuretools.vscode-azurefunctions"
+],
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   "forwardPorts": [3000],
   // Use 'postCreateCommand' to run commands after the container is created.
