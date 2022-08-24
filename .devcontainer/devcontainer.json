@@ -21,7 +21,8 @@
 	"eamodio.gitlens",
 	"esbenp.prettier-vscode",
 	"ms-azuretools.vscode-azurestaticwebapps",
-	"ms-azuretools.vscode-azurefunctions"
+	"ms-azuretools.vscode-azurefunctions",
+	"ms-vscode.azure-account"
 ],
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   "forwardPorts": [3000],
